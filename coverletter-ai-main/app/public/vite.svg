@@ -1,0 +1,18 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Document base -->
+  <path d="M6 4C6 2.89543 6.89543 2 8 2H20L26 8V28C26 29.1046 25.1046 30 24 30H8C6.89543 30 6 29.1046 6 28V4Z" fill="currentColor" opacity="0.1"/>
+  <path d="M6 4C6 2.89543 6.89543 2 8 2H20L26 8V28C26 29.1046 25.1046 30 24 30H8C6.89543 30 6 29.1046 6 28V4Z" stroke="currentColor" stroke-width="1.5" fill="none"/>
+  
+  <!-- Folded corner -->
+  <path d="M20 2V6C20 7.10457 20.8954 8 22 8H26" stroke="currentColor" stroke-width="1.5" fill="none"/>
+  
+  <!-- Content lines -->
+  <line x1="10" y1="14" x2="22" y2="14" stroke="currentColor" stroke-width="1.5" opacity="0.6"/>
+  <line x1="10" y1="18" x2="18" y2="18" stroke="currentColor" stroke-width="1.5" opacity="0.6"/>
+  <line x1="10" y1="22" x2="20" y2="22" stroke="currentColor" stroke-width="1.5" opacity="0.6"/>
+  
+  <!-- AI Spark -->
+  <path d="M24 16L26 14L28 16L26 18L24 16Z" fill="currentColor"/>
+  <path d="M25 12L26 10L27 12L26 14L25 12Z" fill="currentColor" opacity="0.7"/>
+  <path d="M27 18L28 16L29 18L28 20L27 18Z" fill="currentColor" opacity="0.7"/>
+</svg>
