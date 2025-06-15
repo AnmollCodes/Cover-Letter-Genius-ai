@@ -106,4 +106,4 @@ NODE_ENV=development
    - Submit with your job application
 
 
-Built by **Anmol Agarwal**.
+Built by [Anmol Agarwal](linkedin.com/in/anmol-agrawal25) 🚀  
